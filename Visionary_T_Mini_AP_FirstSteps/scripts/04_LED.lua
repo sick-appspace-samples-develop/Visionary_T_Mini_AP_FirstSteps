@@ -1,15 +1,15 @@
 --[[----------------------------------------------------------------------------
 
   Application Name: 04_LED
-                                                                                                                                                                                                 
+
   Summary:
   Show the basic controls for the LED on the device
-  
+
   Description:
   All basic controls of the LED are shown in this script.
   Set the color of the led, light it up and let it blink. Also the led
   is blinking even when the script sleeps.
-  
+
   How to run:
   First set this app as main (right-click -> "Set as main").
   Start by running the app (F5) or debugging (F7+F10).

@@ -1,16 +1,16 @@
 --[[----------------------------------------------------------------------------
 
   Application Name: 01_2dViewer
-                                                                                             
+
   Summary:
   Show the distance and intensity images in two separate views
-  
+
   Description:
   Set up the camera to take live images continuously. React to the "OnNewImage"
   event and display the distance and intensity image
   by selecting the right image from the table that is passed and show them
   on the correct view.
-  
+
   How to run:
   First set this app as main (right-click -> "Set as main").
   Start by running the app (F5) or debugging (F7+F10).
