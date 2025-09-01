@@ -9,4 +9,4 @@ tutorial section. The scripts are independently executable. To show a sample,
 set the wanted script as main (right-click -> "Set as main") before running the app.
 
 ### Topics
-FirstSteps, Visionary, Sample, SICK-AppSpace  
+firststeps, visionary, sample, sick-appspace  
