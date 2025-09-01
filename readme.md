@@ -1,14 +1,12 @@
 ## Visionary_T_Mini_AP_FirstSteps
-Sample applications to "Visionary-T Mini AP first steps" tutorial that can be found on
-the support portal.
+Sample scripts for the first steps with Visionary-T Mini AP
 ### Description
 Set up the camera to take live images continuously. 
-This sample contains four scripts which are part of the Visionary_T_Mini_AP_FirstSteps
-tutorial.
+This sample contains five scripts that help to get started programming Visionary-T Mini AP.
 ### How to run
 Each script can be run independently and is the result of the corresponding
 tutorial section. The scripts are independently executable. To show a sample, 
 set the wanted script as main (right-click -> "Set as main") before running the app.
 
 ### Topics
-firststeps, visionary, sample, view, sick-appspace  
+FirstSteps, Visionary, Sample, SICK-AppSpace  
